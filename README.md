@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning advanced Excel, Tableau, SQL, and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/joshuadunn96
+- 📫 How to reach me 
 
 <!---
 joshuadunn1/joshuadunn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
