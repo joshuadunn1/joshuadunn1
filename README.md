@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @joshuadunn1
 
-- 👀 I’m interested in transitioning to a job in Data science
+- 👀 I’m interested in transitioning into a career in data science 
 
 - 🌱 I’m currently advancing my skills in, **python**, **SQL**, **Tableau**, **Excel**
 
