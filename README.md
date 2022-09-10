@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in transitioning into a career in data science 
 
-- 🌱 I’m currently advancing my skills in, **python**, **SQL**, **Tableau**, **Excel**
+- 🌱 I’m currently advancing my skills in, **Python**, **SQL**, **Tableau**, **Excel**
 
 - 📫 Feel free to contact me through email (kentdunn96@gmail.com) or [Linkedin](https://www.linkedin.com/in/joshuadunn96/)
 
